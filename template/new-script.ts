@@ -1,8 +1,8 @@
 const {ccclass, property} = cc._decorator;
 
 @ccclass
-export default class NewClass extends cc.Component {
-
+export default class NewClass extends cc.Component 
+{
     // public onLoad(): void
     // {}
 
@@ -16,9 +16,6 @@ export default class NewClass extends cc.Component {
     // {}
 
     // public start(): void
-    // {}
-
-    // public update(dt): void
     // {}
 
     // public update(dt: number): void
